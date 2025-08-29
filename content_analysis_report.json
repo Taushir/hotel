@@ -1,0 +1,96 @@
+{
+  "summary": {
+    "total_sections": 6,
+    "total_items": 22,
+    "total_phrases_to_check": 22,
+    "status": "Content extracted - manual verification needed"
+  },
+  "content_by_section": {
+    "descriptions": [
+      "Step into an exclusive sanctuary where sophisticated hospitality meets innovative design. Hotel NaWaB represents a new era of premium accommodation, creating memorable experiences that blend modern elegance with personalized service excellence.",
+      "From intimate romantic retreats to dynamic business stays, Hotel NaWaB delivers exceptional hospitality tailored to your unique preferences. Experience our commitment to creating extraordinary moments that exceed expectations and leave lasting impressions.",
+      "Experience exceptional hospitality in the heart of RANCHI, where modern luxury meets local charm for unforgettable stays."
+    ],
+    "feature_cards": [
+      "Our dedication to excellence ensures consistently outstanding guest experiences and superior service standards.",
+      "Enjoy peaceful environments designed to promote relaxation and restorative sleep for your well-being.",
+      "Strategically positioned in premium locations, our hotel provides convenient access to key attractions and business districts.",
+      "Flexible booking policies accommodate unexpected changes to your travel schedule with complimentary cancellation options.",
+      "Multiple secure payment methods ensure convenient and safe transactions tailored to your financial preferences.",
+      "Exclusive packages and promotional rates designed to enhance your stay while providing exceptional value for every occasion."
+    ],
+    "menu_items": [
+      "A hearty morning classic featuring perfectly cooked eggs paired with crispy bacon for a satisfying start to your day.",
+      "Premium beverages carefully selected and expertly prepared to complement your dining experience.",
+      "Nutritious blend of organic oats and chia seeds, topped with fresh ingredients for a healthy morning boost.",
+      "Layers of seasonal fruits, creamy yogurt, and crunchy granola create this refreshing and vibrant treat.",
+      "Artisanal citrus preserves made from the finest fruits, offering bright flavors to enhance your breakfast.",
+      "Curated selection of fine cheeses from renowned regions, paired with complementary accompaniments."
+    ],
+    "news_content": [
+      "25th JULY 2024",
+      "15th AUG 2024",
+      "08th SEP 2024"
+    ],
+    "room_descriptions": [
+      "Spacious accommodations featuring premium amenities and modern conveniences.",
+      "Multi-room accommodations perfect for families seeking comfort and togetherness.",
+      "Elite accommodations offering panoramic views and exclusive amenities for discerning guests."
+    ],
+    "about_content": [
+      "Step into an exclusive sanctuary where sophisticated hospitality meets innovative design. Hotel NaWaB represents a new era of premium accommodation, creating memorable experiences that blend modern elegance with personalized service excellence."
+    ]
+  },
+  "phrases_to_check": [
+    {
+      "section": "descriptions",
+      "phrase": "Step into an exclusive sanctuary where sophisticated hospitality meets innovative design",
+      "search_query": "\"Step into an exclusive sanctuary where sophisticated hospitality meets innovative design\""
+    },
+    {
+      "section": "descriptions",
+      "phrase": "Hotel NaWaB represents a new era of premium accommodation, creating memorable experiences that blend modern elegance with personalized service excellence",
+      "search_query": "\"Hotel NaWaB represents a new era of premium accommodation, creating memorable experiences that blend modern elegance with personalized service excellence\""
+    },
+    {
+      "section": "descriptions",
+      "phrase": "From intimate romantic retreats to dynamic business stays, Hotel NaWaB delivers exceptional hospitality tailored to your unique preferences",
+      "search_query": "\"From intimate romantic retreats to dynamic business stays, Hotel NaWaB delivers exceptional hospitality tailored to your unique preferences\""
+    },
+    {
+      "section": "descriptions",
+      "phrase": "Experience our commitment to creating extraordinary moments that exceed expectations and leave lasting impressions",
+      "search_query": "\"Experience our commitment to creating extraordinary moments that exceed expectations and leave lasting impressions\""
+    },
+    {
+      "section": "descriptions",
+      "phrase": "Experience exceptional hospitality in the heart of RANCHI, where modern luxury meets local charm for unforgettable stays",
+      "search_query": "\"Experience exceptional hospitality in the heart of RANCHI, where modern luxury meets local charm for unforgettable stays\""
+    },
+    {
+      "section": "feature_cards",
+      "phrase": "Our dedication to excellence ensures consistently outstanding guest experiences and superior service standards",
+      "search_query": "\"Our dedication to excellence ensures consistently outstanding guest experiences and superior service standards\""
+    },
+    {
+      "section": "feature_cards",
+      "phrase": "Enjoy peaceful environments designed to promote relaxation and restorative sleep for your well-being",
+      "search_query": "\"Enjoy peaceful environments designed to promote relaxation and restorative sleep for your well-being\""
+    },
+    {
+      "section": "feature_cards",
+      "phrase": "Strategically positioned in premium locations, our hotel provides convenient access to key attractions and business districts",
+      "search_query": "\"Strategically positioned in premium locations, our hotel provides convenient access to key attractions and business districts\""
+    },
+    {
+      "section": "feature_cards",
+      "phrase": "Flexible booking policies accommodate unexpected changes to your travel schedule with complimentary cancellation options",
+      "search_query": "\"Flexible booking policies accommodate unexpected changes to your travel schedule with complimentary cancellation options\""
+    },
+    {
+      "section": "feature_cards",
+      "phrase": "Multiple secure payment methods ensure convenient and safe transactions tailored to your financial preferences",
+      "search_query": "\"Multiple secure payment methods ensure convenient and safe transactions tailored to your financial preferences\""
+    }
+  ]
+}
